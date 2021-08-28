@@ -1,0 +1,123 @@
+Epoch 00:
+Accuracy:  0.00
+Loss:  6.33
+
+Epoch 01:
+Accuracy:  0.53
+Loss:  0.68
+
+Epoch 02:
+Accuracy:  0.69
+Loss:  0.59
+
+Epoch 03:
+Accuracy:  0.72
+Loss:  0.55
+
+Epoch 04:
+Accuracy:  0.71
+Loss:  0.57
+
+Epoch 05:
+Accuracy:  0.76
+Loss:  0.51
+
+Epoch 06:
+Accuracy:  0.74
+Loss:  0.52
+
+Epoch 07:
+Accuracy:  0.79
+Loss:  0.47
+
+Epoch 08:
+Accuracy:  0.77
+Loss:  0.48
+
+Epoch 09:
+Accuracy:  0.79
+Loss:  0.45
+
+Epoch 10:
+Accuracy:  0.81
+Loss:  0.43
+
+Epoch 11:
+Accuracy:  0.80
+Loss:  0.44
+
+Epoch 12:
+Accuracy:  0.81
+Loss:  0.42
+
+Epoch 13:
+Accuracy:  0.81
+Loss:  0.43
+
+Epoch 14:
+Accuracy:  0.79
+Loss:  0.48
+
+Epoch 15:
+Accuracy:  0.80
+Loss:  0.45
+
+Epoch 16:
+Accuracy:  0.81
+Loss:  0.44
+
+Epoch 17:
+Accuracy:  0.82
+Loss:  0.44
+
+Epoch 18:
+Accuracy:  0.78
+Loss:  0.49
+
+Epoch 19:
+Accuracy:  0.81
+Loss:  0.41
+
+Epoch 20:
+Accuracy:  0.82
+Loss:  0.42
+
+Epoch 21:
+Accuracy:  0.83
+Loss:  0.41
+
+Epoch 22:
+Accuracy:  0.83
+Loss:  0.41
+
+Epoch 23:
+Accuracy:  0.82
+Loss:  0.45
+
+Epoch 24:
+Accuracy:  0.83
+Loss:  0.43
+
+Epoch 25:
+Accuracy:  0.82
+Loss:  0.46
+
+Epoch 26:
+Accuracy:  0.82
+Loss:  0.43
+
+Epoch 27:
+Accuracy:  0.83
+Loss:  0.46
+
+Epoch 28:
+Accuracy:  0.84 *valor mais alto, 83.7%
+Loss:  0.45
+
+Epoch 29:
+Accuracy:  0.83
+Loss:  0.47
+
+Epoch 30:
+Accuracy:  0.82
+Loss:  0.44
